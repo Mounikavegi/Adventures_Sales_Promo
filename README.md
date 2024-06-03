@@ -1,5 +1,5 @@
 # Adventure Works Sales Report
-![](AdventureWorks-Logo2.jpg)
+Adventures_works_logo.png
 ---
 ## SQL QUERIES FOR THIS PROJECT
 Click the link below to check the **SQL QUERIES** to transform the tables and choose selected columns for creating a Power BI dashboard.
