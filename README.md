@@ -1,4 +1,5 @@
 # Adventure Works Sales Report
+https://github.com/Mounikavegi/Adventures_Sales_Promo/blob/d1a647302d3cd63c5eeacaa9190766563d559bbf/Adventures_works_logo.png
 Adventures_works_logo.png
 ---
 ## SQL QUERIES FOR THIS PROJECT
