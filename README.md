@@ -3,8 +3,7 @@
 ---
 ## SQL QUERIES FOR THIS PROJECT
 Click the link below to check the **SQL QUERIES** to transform the tables and choose selected columns for creating a Power BI dashboard.
-https://github.com/Heysen3101/AdventureSalesPro/blob/main/sales.sql
-
+https://github.com/Mounikavegi/Adventures_Sales_Promo/blob/8dd4d2a3963a1f22442a343f5ea3ed65aad256e2/sales.sql
 ## INTRODUCTION
 This project provides a comprehensive dashboard analyzing Adventure Work's sales data. Utilizing SQL queries, the project updates and structures data into four key tables: Customer Details, Product Details, Calendar Details, and Sales Details. This data is then imported into Power BI as CSV files and transformed using Power Query.
 **_Disclaimer_:** _The Dataset used for this report is used from the database from microsoft sample datasets.._
